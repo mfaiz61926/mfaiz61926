@@ -1,7 +1,7 @@
 # 💫 Hi 👋, I'm Mohd Faiz
 **A passionate AIML Engineer || Full Stack Engineer || Competitve Programmer from India**
 
-Email Me 👉 ✉️ **mohdfaiz63226479@gmail.com** For Collaboration/Project or Anything Else. 😊😊
+Email Me 👉 ✉️ **mohdfaiz63226479@gmail.com** For Collaboration/Project or Competitive Programming. 😊😊
 
 ## 🧑‍💻 About Me
 - 🔭 Currently working on **AI/ML projects & full-stack web apps**
