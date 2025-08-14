@@ -27,6 +27,7 @@ Email Me 👉 ✉️ **mohdfaiz63226479@gmail.com** For Collaboration/Project or
 [![LeetCode](https://img.shields.io/badge/LeetCode-%23FFA116.svg?logo=leetcode&logoColor=white)](https://leetcode.com/u/c_conquer/)
 [![CodeChef](https://img.shields.io/badge/CodeChef-%235B4638.svg?logo=codechef&logoColor=white)](https://www.codechef.com/users/m_61926)
 [![TakeUForward](https://img.shields.io/badge/TakeUForward-%23009688.svg?logoColor=white)](https://takeuforward.org/profile/m_61926)
+[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?logo=firefox&logoColor=%23FF7139)](https://mfaiz61926.github.io/portfolio/)
 
 
 # 💻 Tech Stack
