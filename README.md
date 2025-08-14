@@ -7,7 +7,7 @@ Email Me 👉 ✉️ **mohdfaiz63226479@gmail.com** For Collaboration/Project or
 - 🔭 Currently working on **AI/ML projects & full-stack web apps**
 - 🌱 Learning **Cloud Solutions (AWS, Azure)** and **Next.js Advanced Features**
 - 💬 Ask me about **Machine Learning, Web Development, Competitive Programming**
-- ⚡ Fun fact: *I debug code faster at 2 AM than at 2 PM* 😄
+- ⚡ Fun fact: *I debug code faster at 11 AM than at 2 PM* 😄
 
 ## 💸 Hire Me
 - 📌 **Email** → [mohdfaiz63226479@gmail.com](mailto:mohdfaiz63226479@gmail.com)  
@@ -110,10 +110,10 @@ Email Me 👉 ✉️ **mohdfaiz63226479@gmail.com** For Collaboration/Project or
 ## 📈 GitHub Activity Graph
 [![Faiz's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=mfaiz61926&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-## 📌 Featured Projects
+<!--## 📌 Featured Projects
 - [**AI Chatbot**](#) — Built using OpenAI API, Flask, and React  
 - [**E-commerce Website**](#) — MERN stack with Razorpay integration  
-- [**Machine Learning Models Collection**](#) — Implementations of ML algorithms with visualizations  
+- [**Machine Learning Models Collection**](#) — Implementations of ML algorithms with visualizations  -->
 
 ---
 ---
