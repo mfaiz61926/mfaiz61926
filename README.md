@@ -7,7 +7,6 @@ Email Me 👉 ✉️ **mohdfaiz63226479@gmail.com** For Collaboration/Project or
 - 🔭 Currently working on **AI/ML projects & full-stack web apps**
 - 🌱 Learning **Cloud Solutions (AWS, Azure)** and **Next.js Advanced Features**
 - 💬 Ask me about **Machine Learning, Web Development, Competitive Programming**
-- ⚡ Fun fact: *I debug code faster at 11 AM than at 2 PM* 😄
 
 ## 💸 Hire Me
 - 📌 **Email** → [mohdfaiz63226479@gmail.com](mailto:mohdfaiz63226479@gmail.com)  
